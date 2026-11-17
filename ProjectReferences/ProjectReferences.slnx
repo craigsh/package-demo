@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DemoApp/DemoApp.csproj" />
+  <Project Path="LibraryA/LibraryA.csproj" />
+  <Project Path="LibraryB/LibraryB.csproj" />
+</Solution>

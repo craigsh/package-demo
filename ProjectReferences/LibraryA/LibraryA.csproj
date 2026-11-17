@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryB\LibraryB.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PackageId>NuGetDemo.LibraryA</PackageId>
+    <Version>1.0.0</Version>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
